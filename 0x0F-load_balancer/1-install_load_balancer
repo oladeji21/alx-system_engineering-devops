@@ -40,7 +40,7 @@ frontend oladejiajayi05-tech-frontend
 
 backend oladejiajayi05-tech-backend
     balance roundrobin
-    server 434907-web-01 54.237.3.91:80 check
+    server 434907-web-01 54.160.71.137:80 check
     server 434907-web-02 54.85.202.234:80 check
 "
 
